@@ -1,0 +1,27 @@
+Install pip
+Pip is an easy_install replacement that makes it easy to install python
+packages.
+
+easy_install pip
+
+Usage:
+Installation
+pip install simplejson
+
+Upgrading
+pip install --upgrade simplejson
+
+Removing
+pip uninstall simplejson
+
+
+
+Install virtual_env
+virtual_env is a tool to create isolate python environments
+pip install virtualenv
+
+Usage:
+python virtualenv.py ENV or if installed virtualenv env
+source ENV/bin/activate
+
+This creates env/lib/pythonX.X/site-packages, where any libraries you install will go. It also creates ENV/bin/python, which is a python interpreter that uses this environment. Anytime you use that interpreter, the libraries in that environment willl be used
