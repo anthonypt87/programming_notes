@@ -17,7 +17,7 @@ pip uninstall simplejson
 
 
 Install virtual_env
-virtual_env is a tool to create isolate python environments
+virtual_env is a tool to create isolated python environments
 pip install virtualenv
 
 Usage:
