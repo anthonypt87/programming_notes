@@ -1,0 +1,16 @@
+Have not Read:
+Clean Coders - Robert Martin
+Refactoring: Improving the Design of Existing Code - Martin Folwer, Kent Beck
+The Pragmatic Programmin - Andrew Hunt, David Thomas
+Domain Driven Design - Eric Evans
+Patterns of Enterprise Application Integration (or Architecture) - Martin Fowler
+Growing Object Oriented Software, Guided by Tests - Steve Freeman Nat Pryce
+
+Reading:
+Clean Code - Robert Martin
+Head First Design Patterns
+
+Completed:
+Code Complete 2 - Steve McConnell 
+
+
